@@ -1,4 +1,4 @@
-# file_manager
+# file-manager
 Total-commander-like file manager (WPF)
 
 # Features
