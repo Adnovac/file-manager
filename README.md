@@ -1,5 +1,5 @@
-# file-manager
-Total-commander-like file manager (WPF)
+# File-manager
+Total-commander-like file manager (WPF). One of my first projects, created in 2018.
 
 # Features
 + Entering subdirectories and parent directories
